@@ -1,0 +1,28 @@
+.navbar{
+    font-family:sans-serif;
+    font-size:20px;
+    background-color:#332;
+    color:white;
+}
+
+.list{
+    list-style-type: none;
+	margin:0px;
+	padding:0px;
+    background-color:#332;
+    padding:10px 0px 10px 0px; 
+}
+
+li{
+    display:inline; 
+    padding:10px 30px 10px 30px; 
+}
+
+a{
+    color:white;
+    text-decoration:none
+}
+
+li:hover{
+    background-color:green;
+}
